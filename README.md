@@ -1,5 +1,5 @@
 # Blog-Site
-UPGRAD Front-end Blogging Site Graded Project | Scribbler | KARTIK
+UPGRAD Front-end Blogging Site Graded Project --------- KARTIK KAPOOR
 ### LIVE LINK !!! 
 <a href="https://kartikkapoor475.github.io/">SEE THE LIVE PROJECT<a>
 ## HOME PAGE
